@@ -1,0 +1,41 @@
+
+.navbar-default {
+    text-decoration: none;
+    background-color: #ffff;
+    padding: 30px;
+}
+.Tulisan {
+    margin-top: 70px;
+}
+
+.gambar {
+    height: 200px;
+    width: 350px;
+}
+
+
+.tentang hr{
+    width: 250px;
+    border-top: 3px solid;
+}
+
+.tentang {
+    margin-top: 80px;
+}
+
+.tentang-p {
+    background-color: #000;
+    padding: 15px; /* Add padding for better visibility */
+    margin: 15px 0; /* Add margin for better readability */
+  }
+  
+
+.Kontak hr {
+    width: 250px;
+    border-top: 3px solid;
+}
+
+section .koleksi {
+    background-color: orange;
+}
+
